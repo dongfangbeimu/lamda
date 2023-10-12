@@ -170,19 +170,7 @@ LAMDA 是个人开发的免费软件 (freeware)，目前仅客户端库及工具
 
 你可能会把 Python 代码中的 `lambda` 写成 lamda，这是正常现象。
 
-> 问题反馈及建议
 
-因为安卓被各种设备广泛使用，无法保证百分百的兼容性，可能会有运行异常等各种未知情况，出现的异常情况包括：无故重启，APP经常崩溃，触摸失效或无故乱动等等，冻屏等情况。如果经常遇到，建议停止使用。
-点此 [报告问题/建议](https://github.com/rev1si0n/lamda/issues/new)，请详细描述并附上机型系统等信息。
-
-社区讨论：[电报 t.me/lamda_dev](https://t.me/lamda_dev) | [微信群组(Wechat)](https://lamda.run/join/wechat)
-
-> 顺便支持作者
-
-如果需要购入服务器，可以选择通过下方的**推广链接**购买云服务。
-
-<a href="https://lamda.run/referral/aliyun"><img src="image/logo-aliyun.png" alt="阿里云" height="40"></a>
-<a href="https://lamda.run/referral/tencent"><img src="image/logo-tencent.svg" alt="腾讯云" height="40"></a>
 
 <br>
 
